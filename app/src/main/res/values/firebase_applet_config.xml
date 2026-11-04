@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+    <string name="firestore_database_id" translatable="false">ai-studio-android-remixmad-ebeb1e06-1d46-4f6a-bcb7-2e5c7b35fa2a</string>
+    <string name="recaptcha_site_key" translatable="false">6LeWmBAuAAAAAHjwk7V487SBkh02WctFngFScQ0X</string>
+</resources>

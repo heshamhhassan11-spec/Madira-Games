@@ -1,0 +1,20 @@
+{
+  "users": {
+    "userId": "string",
+    "userTagId": "string",
+    "name": "string",
+    "email": "string",
+    "avatarEmoji": "string",
+    "points": "number",
+    "rank": "number",
+    "winStreak": "number",
+    "favoriteClub": "string",
+    "virtualCoins": "number",
+    "unlockedChallengeIds": "array",
+    "subscribedPackageId": "string",
+    "favoriteChallenges": "array",
+    "isAdmin": "boolean",
+    "createdAt": "timestamp",
+    "updatedAt": "timestamp"
+  }
+}

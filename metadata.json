@@ -1,0 +1,8 @@
+{
+  "name": "Remix Madira Games v.17",
+  "description": "تطبيق تحديات كرة القدم بين الأصدقاء مع مسابقات وتشكيلات وبورصة لاعبين ولوحة صدارة ونظام اشتراكات",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
